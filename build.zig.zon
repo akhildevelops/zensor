@@ -25,7 +25,7 @@
     .dependencies = .{
         .zigtest = .{
             .url = "https://github.com/akhildevelops/zigtest/archive/refs/heads/main.zip",
-            .hash = "1220932a20a8772d49a57ae20121635464293f3ef467f20322b69e096bb1e2d97c64",
+            .hash = "122031b5f416fed60dbc4afa27fc687616c16aeae766e6eda610c6cd3ed9a985989d",
         },
     },
     .paths = .{
